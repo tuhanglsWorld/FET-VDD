@@ -1,4 +1,4 @@
-# FMGTranDD: Video-Only Deception Detection from Facial Emotion Trajectories
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/65f7464d-c3f1-4b6a-909a-013ce21abbaa" /># FMT-VDD: Video-Only Deception Detection from Facial Emotion Trajectories
 
 
 #### algorithm framework diagram
